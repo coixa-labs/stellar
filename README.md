@@ -22,9 +22,6 @@ npm install @coixa/stellar @stellar/stellar-sdk
 npm install bip39
 ```
 
-> Until published to npm, install from this repo path:
-> `npm install file:./packages/stellar`
-
 ## Quick start (Pi Testnet payment)
 
 ```ts
